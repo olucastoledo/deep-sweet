@@ -1,5 +1,5 @@
 function Page2 () {
-    return <h1>Love U to Mutch</h1>
+    return <h1>Love U to Mutch meet nice</h1>
   
 }
 
